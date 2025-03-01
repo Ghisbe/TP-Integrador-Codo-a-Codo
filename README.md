@@ -1,6 +1,6 @@
 # TP-Integrador-Codo-a-Codo
 
-![Uploading analisisdigital_visualizacion.jpg…]()
+![analisisdigital_visualizacion](https://github.com/user-attachments/assets/1d556be8-83f4-460f-9b9a-c1dc173edff8)
 
 
 Trabajo realizado en Deepnote.
